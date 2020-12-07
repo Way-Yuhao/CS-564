@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Fall 2019/CS 564/Programs/P1/wl.cpp
+wl.h
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Fall 2019/CS 564/Programs/P1/wl.h
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Fall 2019/CS 564/Programs/P1/wl.h
+iostream
+-
+string
+-
+list
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+

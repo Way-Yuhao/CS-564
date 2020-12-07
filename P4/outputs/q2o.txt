@@ -1,0 +1,14 @@
+9560.64|Supplier#000009656|INDONESIA|24651|Manufacturer#5|vKPPjhrw6lnQmIvuAj70e|19-362-745-1503|refully according to the 
+8150.03|Supplier#000009231|INDIA|69230|Manufacturer#4|T37AhB47xDHz48fggP gaQjmPUUEMeL2wO|18-767-139-4896|le. pending, quick accounts serve after the fur
+7581.65|Supplier#000002351|JAPAN|54835|Manufacturer#3|OUheQZEw,TqaIoJJd7XpEpwaUZfI2R4b|22-806-713-2802|sual dependencies? unusual, regular ideas wake carefully carefully ironic theo
+7544.88|Supplier#000006114|INDIA|166113|Manufacturer#5|6482 iaFjFugM g,kq3DhWWRn1r|18-416-950-9698|nts play carefully. slyly regular packages w
+7136.84|Supplier#000006489|VIETNAM|73981|Manufacturer#3|1O90ndPLcE|31-210-687-7613|fily bold accounts. blithely bold packages boost about the blithely final requests. quickly speci
+6890.79|Supplier#000009314|INDONESIA|121777|Manufacturer#1|XD3HVomMK7W1C8i bB1joW|19-869-893-3378| furiously fluffy requests doubt furiously above the slyly special excuses. furiously
+6123.02|Supplier#000002127|INDIA|97108|Manufacturer#4|bfBD88wohtla|18-992-731-7412|eposits after the slyly regular pains detect carefully express requ
+5926.41|Supplier#000000023|INDONESIA|105002|Manufacturer#1|ssetugTcXc096qlD7 2TL5crEEeS3zk|19-559-422-5776|ges could have to are ironic deposits. regular, even request
+2917.78|Supplier#000009985|INDONESIA|199984|Manufacturer#5|BZSKwKEjlX8JPr,rNVMzhjc5a|19-178-709-7161|ly at the even deposits; slyly even packages detect furiously across the quickly ironic packa
+2650.42|Supplier#000008428|INDIA|83411|Manufacturer#1|YeM8xSQcU5k7i|18-481-625-2961|s around the carefully ironic ideas are quickly express deposits.
+2072.81|Supplier#000009035|JAPAN|164002|Manufacturer#4|8W  kvlvsh5t,DgUFGKXMkaQdEAfF3UNxza|22-742-124-7874|y ironic instructions above 
+2060.13|Supplier#000000119|CHINA|175084|Manufacturer#4|4CxBrM0o4yt6LYFxZIyZ89Xnf8LZNn6KcYc|28-558-264-1202|ctions: quickly final courts wake quietly foxes. packages hag
+283.61|Supplier#000000251|VIETNAM|190250|Manufacturer#4|Uqi3s, iqzLxI4duoRfgkciiN4XuCvITGIUf|31-869-288-1674|eep blithely even, ironic requests. carefully pending courts above th
+Run Time: real 0.023 user 0.002659 sys 0.003423

@@ -1,0 +1,12 @@
+All additional tests are written in main.cpp
+Description:
+	test4():
+		Create a relation of size 0. It tests how the program handles insert and scanning when the b+ tree is empty.
+	test5():
+		Create a relation where the integer value inserted are all very large, from 100000 to 100200. 
+	test6():
+		Create a relation with negative integer values, from -150 to 50. It tests if the structure of the b+ tree is correctly maintained when some of its values are negative.
+	test7():
+		Create a relation with only a few integer values so that the initial root stays un-split after all given inserts. It then tests if b+tree still functions as expected.
+	test8():
+		Create a relation and repeatedly search using the same parameters.

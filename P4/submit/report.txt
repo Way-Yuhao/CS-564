@@ -1,0 +1,15 @@
+## basic information 
+- name: Yuhao Liu
+- netid: liu697
+
+## query 2
+- There are 2 indices used for this query: an index on columns (p_size, p_type, p_partkey) on PART, and an index on columns (s_suppkay, s_nationkey) on SUPPLIER
+- The optmized query show 99.19% improvement over baseline
+
+## query 3
+- There are 3 indices used for this query: an index on columns (c_mktsegment, c_custkey) on CUSTOMER, an index on columns (o_cusgkey, o_orderdate) on ORDERS, and columns(l_orderkey, l_shipdate) LINEITEM. 
+- The optimized query show 76.13% improvement over baseline
+
+#3 query 4
+- There is one index used for this query, on columns (l_orderkey, l_commitdate, l_receiptdate) on LINEITEM. I also shifted the order of the join predicates in WHERE. Finally, in the subquery, I changed select (*) to select l_orderkey.
+- The optimized query show 47.01% improvement overt baseline
